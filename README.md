@@ -1,5 +1,5 @@
 # RepeatJS
-High performance, 0.4kb javascript render library. It's similar AngularJS template system. You need to jquery when using RepeatJS. You can make your data loop easily with that library.
+High performance, 400byte javascript render library. It's similar AngularJS template system. You need to jquery when using RepeatJS. You can make your data loop easily with that library.
 
 > That article is under construction.
 
