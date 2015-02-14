@@ -36,3 +36,6 @@ repeat("#blog", blogData);
 	<p>{{data.desc}}</p>
 </div>
 ```
+
+Take a look this jsfiddle page :
+http://jsfiddle.net/rtsfo4t1/2/
