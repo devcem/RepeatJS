@@ -8,7 +8,6 @@ repeat(selector, data);
 ```
 
 ## Example
-It's easy to use, there are just to arguments. Selector is your object, and data is your javascript array object.
 
 ### Javascript
 ```
