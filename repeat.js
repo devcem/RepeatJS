@@ -14,7 +14,7 @@ function repeat(selector, json){
 	 					var value = eval(replace[a]);
 	 					output = output.replace(replace[a], value);
 	 				}
-	 				$( output ).insertBefore( obj );
+	 				obj.append( output );
 	 					
 	 			}
 	 			$.each($("*[repeat-src]"), function(elem){
